@@ -2,7 +2,6 @@ import React from 'react';
 
 import Card from '../UI/Card';
 import MealItem from './MealItem/MealItem';
-import MealItemForm from './MealItem/MealItemForm';
 
 import styles from './AvilableMeals.module.css';
 
